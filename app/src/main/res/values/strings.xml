@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather Here</string>
+    <string name="wind">Wind</string>
+    <string name="where_are_you">Where are you?(city or zip-code)</string>
+    <string name="search">Search</string>
+    <string name="m_s"> m/s</string>
+</resources>
